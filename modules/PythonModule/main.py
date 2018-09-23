@@ -55,7 +55,7 @@ PROTOCOL = IoTHubTransportProvider.MQTT
 
 # String containing Hostname, Device Id & Device Key in the format:
 # "HostName=<host_name>;DeviceId=<device_id>;SharedAccessKey=<device_key>"
-CONNECTION_STRING = "HostName=fanhub.azure-devices.net;DeviceId=iotDev0;SharedAccessKey=78ysHG01/ZBlgCSIlG/3kCQwmkSBh7crmbJ4OLKj6H4="
+CONNECTION_STRING = "YourString"
 
 MSG_TXT = "{\"deviceId\": \"iotDev0\",\"model\": %s,\"temperature\": %.2f,\"humidity\": %.2f}"
 
