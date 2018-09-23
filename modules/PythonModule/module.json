@@ -1,0 +1,15 @@
+{
+    "$schema-version": "0.0.1",
+    "description": "",
+    "image": {
+        "repository": "zf6770/pythonmodule",
+        "tag": {
+            "version": "0.0.1",
+            "platforms": {
+                "aarch64": "./Dockerfile.aarch64"
+            }
+        },
+        "buildOptions": []
+    },
+    "language": "python"
+}
